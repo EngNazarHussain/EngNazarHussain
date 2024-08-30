@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EngNazarHussain
 - 👀 I’m interested in Development
-- 🌱 I’m currently learning Adroid
+- 🌱 I’m currently working on Flutter
 - 💞️ I’m looking to collaborate on IOT
 - 📫 Reach me through Email
 
